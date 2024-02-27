@@ -3,7 +3,7 @@ let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
-// mudanças realizadas com sucesso
+// mudanças realizadas no html como teste
 
 
 function exibirTextoNaTela(tag, texto) {
